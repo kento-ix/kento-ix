@@ -5,5 +5,5 @@
 
 ##  Connect with me
 <a href="https://www.linkedin.com/in/kento-kanehira-ixx/">
-  <img src="linked-in-alt.svg" alt="linkedin" width="40" height="40">
+  <img src="linked-in-alt.svg" alt="linkedin" width="30" height="20">
 </a>
