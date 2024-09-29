@@ -1,6 +1,5 @@
 - 🔭 I’m currently studying computer science at Langara College
-- 🌱
-- ⚡ Fun fact: ...
+- 🌕 I mainly focus on React.js, Python, JavaScript and MySQL
 - 📫 Reach out to me via email: [kentoix1105@gmail.com]
 
 ##  Connect with me
